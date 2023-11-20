@@ -1,0 +1,7 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+}
+body{
+    background-color: color-mix(in hsl shorter hue, color percentage, color percentage);
+}
